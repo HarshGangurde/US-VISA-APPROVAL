@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # US-visa-approval
 
 - Anaconda: https://www.anaconda.com/
@@ -129,3 +130,6 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
    - AWS_SECRET_ACCESS_KEY
    - AWS_DEFAULT_REGION
    - ECR_REP
+=======
+# US-VISA-APPROVAL
+>>>>>>> 00c20070a8d9fe37bc200133d517d1e6a5dd4be0
